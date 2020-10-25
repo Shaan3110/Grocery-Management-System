@@ -146,12 +146,12 @@ a:hover { color: #FF0; }
 .baner-content {
   padding-top: 30vh;
   text-align: center;
-  background-image: url(../img/1st-section.jpg);
+  background-image: url(../img/);
 }
 
 .baner-content h1 {
   margin-top: 0px;
-  font-size: 128px;
+  font-size: 96px;
   color: #fff;
   font-weight: 900;
   text-transform: uppercase;
